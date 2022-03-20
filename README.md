@@ -1,2 +1,2 @@
-# Dort-Islem-
+# Dort-Islem
 Matematik Dort Islem
