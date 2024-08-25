@@ -1,2 +1,2 @@
-# Dört - 
+# Dört - İşlem
 Matematik Dort Islem
