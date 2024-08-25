@@ -1,2 +1,2 @@
 # Dört - İşlem
-Matematik Dort Islem
+Matematik Dört 
